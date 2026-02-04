@@ -149,7 +149,7 @@ This ensures performance, reliability and maintainability when the app grows.
 
 ## 🖊 Author
 
-**Your Name** – Isha Doifode
+– Isha Doifode
 
 ---
 
